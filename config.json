@@ -11,12 +11,12 @@
     "blog_name": "Coding Thunder",
     "tag_line": "Blog liked by programmers",
     "gmail-user": "piyushanand2580@gmail.com",
-    "gmail-password": "XXXXXXXXXXXXXXXXXXXX",
+    "gmail-password": "xxxxxxxxxxxxxxxxxxx",
     "about_text": "Hi I am Piyush, This blog page is created by me. I am good in python.",
     "no_of_posts": 3,
     "login_image": "login.svg",
     "admin_user": "piyush",
-    "admin_password": "flaskapp",
+    "admin_password": "xxxxxxxxxx",
     "upload_location": "D:\\Project-3\\first-tut\\static"
   }
-
+}
